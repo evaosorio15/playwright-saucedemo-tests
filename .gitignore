@@ -3,3 +3,6 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Personal weekly learning summaries — keep out of the public repo
+Weekly Summaries/
